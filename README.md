@@ -1,2 +1,2 @@
 # Password-generator-storage
-stores and generates passwords
+generates passwords and stores the info in data.json
